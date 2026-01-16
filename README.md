@@ -57,9 +57,3 @@ dotnet test
 
 - Fork e pull request benvenuti.
 - Includere test per nuove regole o correzioni dell'algoritmo.
-
-**Licenza**
-
-- Specificare qui la licenza desiderata (es. MIT) o mantenere il progetto per scopi didattici interni.
-
-Per domande o dettagli implementativi, apri un issue nella repository o contattami direttamente.
